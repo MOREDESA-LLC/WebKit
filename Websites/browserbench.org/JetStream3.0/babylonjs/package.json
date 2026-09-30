@@ -21,8 +21,8 @@
     "babel-loader": "^10.0.0",
     "generate-license-file-webpack-plugin": "^4.0.0",
     "path-browserify": "^1.0.1",
-    "terser-webpack-plugin": "^5.3.14",
-    "webpack": "^5.101.1",
+    "terser-webpack-plugin": "^5.6.1",
+    "webpack": "^5.111.1",
     "webpack-cli": "^6.0.1",
     "@dapplets/unicode-escape-webpack-plugin": "^0.1.1"
   }

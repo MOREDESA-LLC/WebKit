@@ -24,7 +24,7 @@
     "typescript": "^5.9.2",
     "undici-types": "^7.13.0",
     "util": "^0.12.5",
-    "webpack": "^5.101.0",
+    "webpack": "^5.111.1",
     "webpack-cli": "^6.0.1"
   }
 }
