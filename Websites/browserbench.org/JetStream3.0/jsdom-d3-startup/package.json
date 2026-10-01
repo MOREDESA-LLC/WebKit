@@ -23,7 +23,7 @@
     "topojson-client": "^3.1.0",
     "url": "^0.11.4",
     "util": "^0.12.5",
-    "webpack": "^5.101.0",
+    "webpack": "^5.111.1",
     "webpack-cli": "^6.0.1"
   }
 }
