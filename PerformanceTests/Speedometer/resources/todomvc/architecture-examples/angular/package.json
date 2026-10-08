@@ -11,14 +11,14 @@
     "lint": "ng lint"
   },
   "dependencies": {
-    "@angular/common": "^4.0.0",
-    "@angular/compiler": "^4.0.0",
-    "@angular/core": "^4.0.0",
+    "@angular/common": "^20.3.28",
+    "@angular/compiler": "^20.3.27",
+    "@angular/core": "^20.3.28",
     "@angular/forms": "^4.0.0",
     "@angular/http": "^4.0.0",
     "@angular/platform-browser": "^4.0.0",
     "@angular/platform-browser-dynamic": "^4.0.0",
-    "@angular/router": "^4.0.0",
+    "@angular/router": "^20.3.32",
     "core-js": "^2.4.1",
     "enhanced-resolve": "^3.3.0",
     "rxjs": "^5.1.0",
